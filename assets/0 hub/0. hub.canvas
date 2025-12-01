@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"4346ec549c87cd5e","type":"text","text":"**2. CRONOGRAMA**\n![[cronograma.png]]","x":-540,"y":-420,"width":740,"height":480},
+		{"id":"87a66e4a2b732bba","type":"text","text":"# 0. HUB","x":-1140,"y":-96,"width":250,"height":60},
+		{"id":"979a2fb7742e7c78","type":"file","file":"GenAi/assets/0 hub/Guia de Orientação_AKCIT_27_01_2025 (1).pdf","x":400,"y":-160,"width":475,"height":283},
+		{"id":"b1a8f42c7c0a942c","type":"text","text":"Criar Rotina no AVA (RESUMO):\n* Use seu tempo no transporte coletivo e coloque suas leituras em diadurante o trajeto!\n* Use o tempo ocioso para rever uma videoaula!","x":400,"y":155,"width":458,"height":173},
+		{"id":"249f253e58d98256","type":"text","text":"O que fazer (RESUMO):\n* Acessar o AVA e dedicar, pelo menos, duas (2) horas diárias de estudo.\n* Realizar leitura obrigatória do Plano de Estudos e das Unidades do Microcurso presentes no ebook.\n* Complementar os estudos com a leitura opcional de referências indicadas.\n* Responder as atividades avaliativas e processuais em cada Unidade do Microcurso.","x":400,"y":355,"width":458,"height":326},
+		{"id":"4584a31e09baa17b","type":"text","text":"**3. ORIENTAÇÕES ALUNO**\n\n\n","x":-540,"y":155,"width":280,"height":60},
+		{"id":"31244dcbf2d4faa3","type":"text","text":"**1. OBJETIVO**\n* Capacitar profissionais com conhecimento teórico e habilidades práticas para criar soluções inovadoras, impulsionar a transformação digital e contribuir para a evolução das práticas profissionais e empresariais.\n* Especialização em Inteligência Artificial Generativa (GenAI) é uma pós-graduação lato sensu.","x":-540,"y":-685,"width":740,"height":200},
+		{"id":"9e5235be82dedda0","type":"file","file":"GenAi/assets/0 hub/GenAI - Informativo_divulgacao_especialidacao_em_IA-generativa_AKCIT-CEIA-UFG.pdf","x":387,"y":-1080,"width":471,"height":420},
+		{"id":"9098c098e0234f22","x":387,"y":-620,"width":488,"height":400,"type":"file","file":"Genai Turma2/Trilha1/assets/0 hub/assets/Cronograma  Esp. Inteligência Artificial Generativa Turma 2.pdf"}
+	],
+	"edges":[
+		{"id":"9c2f6e31a35e94f7","fromNode":"87a66e4a2b732bba","fromSide":"right","toNode":"4346ec549c87cd5e","toSide":"left"},
+		{"id":"1626a882077ab11d","fromNode":"87a66e4a2b732bba","fromSide":"right","toNode":"4584a31e09baa17b","toSide":"left"},
+		{"id":"005855f3c7a2761a","fromNode":"87a66e4a2b732bba","fromSide":"right","toNode":"31244dcbf2d4faa3","toSide":"left"},
+		{"id":"8b08f72f75aae8dd","fromNode":"4584a31e09baa17b","fromSide":"right","toNode":"b1a8f42c7c0a942c","toSide":"left"},
+		{"id":"02fabd904cf78d04","fromNode":"4584a31e09baa17b","fromSide":"right","toNode":"249f253e58d98256","toSide":"left"},
+		{"id":"32bf4ad791093f83","fromNode":"4584a31e09baa17b","fromSide":"right","toNode":"979a2fb7742e7c78","toSide":"left"},
+		{"id":"bb99e679f33b0297","fromNode":"31244dcbf2d4faa3","fromSide":"right","toNode":"9e5235be82dedda0","toSide":"left"},
+		{"id":"184cef59e3baa4a8","fromNode":"4346ec549c87cd5e","fromSide":"right","toNode":"9098c098e0234f22","toSide":"left"}
+	]
+}

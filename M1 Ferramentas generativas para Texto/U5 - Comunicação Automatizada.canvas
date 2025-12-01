@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"a3283444ae36d56d","type":"text","text":"## U5 - Comunicação Automatizada\n\n\n","x":-2480,"y":-814,"width":400,"height":65},
+		{"id":"2567a1a505530349","type":"text","text":"- O que foi visto?\n\t1. resumos executivos eficazes,\n\t2. automatizar a geração de e-mails\n\t3. Geração de Atas de Reuniões","x":-2280,"y":-1044,"width":340,"height":124},
+		{"id":"cb31a289caa30dce","type":"text","text":"- Criar mensagens com base em informações fornecidas pelo usuário. \n- Pode adaptar o conteúdo ao tom, estilo e propósito desejados","x":-1360,"y":-1481,"width":634,"height":94},
+		{"id":"8b664da4e1bfd8af","x":-1701,"y":-1387,"width":250,"height":60,"type":"text","text":"### Geração de E-mails"},
+		{"id":"e0362122fcd7bada","type":"text","text":"Ferramentas Recomendadas\n- **Flowrite**®: automatiza a redação de e-mails com base em pontos fornecidos pelo usuário;\n- **JasperAI**®: especializado em criação de mensagens personalizadas para diferentes contextos;\n- **Canva Docs**®: adapta mensagens com foco em design visual e precisão.","x":-560,"y":-1520,"width":740,"height":160},
+		{"id":"15269acd51bf4612","x":-1360,"y":-1288,"width":634,"height":208,"type":"text","text":"**Características principais:**\n\t- **Personalização**: mensagens adaptadas ao destinatário e ao objetivo da comunicação.\n\t- **Rapidez**: redução do tempo necessário para compor e-mails.\n\t- **Consistência**: linguagem padronizada e com menor chance de erros.\n\t- **Eficiência**: elimina a necessidade de redigir e-mails do zero.\n\t- **Precisão**: mensagens são bem estruturadas e alinhadas ao objetivo.\n\t- **Escalabilidade**: gera múltiplos e-mails personalizados em grande escala\n"},
+		{"id":"c4fe0409d9afde23","x":-1780,"y":-934,"width":250,"height":60,"type":"text","text":"### Geração de Atas de Reuniões"},
+		{"id":"379068c91bd4f78d","type":"text","text":"- São registros escritos que documentam as discussões e decisões ocorridas em um encontro profissional.\n- Servem como  guia para acompanhar o progresso das ações acordadas e como um documento oficial de referência.","x":-1043,"y":-886,"width":583,"height":106},
+		{"id":"cedd1983b1625ef1","x":-1043,"y":-740,"width":583,"height":105,"type":"text","text":"**Principais elementos de uma ata:**\n\t- **Informações básicas**: data, hora, local e participantes.\n\t- **Resumo dos pontos discutidos**: tópicos abordados e conclusões.\n\t- **Ações futuras**: tarefas delegadas, responsáveis e prazos."},
+		{"id":"6d6a132a9786cb53","type":"text","text":"- **Rapidez**: reduz o tempo necessário para criar documentos detalhados.\n- **Consistência**: garante um formato padronizado para todas as reuniões.\n- **Precisão**: organiza as informações de forma lógica e acessível.","x":-1043,"y":-600,"width":583,"height":100},
+		{"id":"1fb25439c29d49ee","type":"text","text":"**Ferramentas Recomendadas**\n- **Fireflies.AI**® (gratuito): transcreve reuniões e gera atas automaticamente;\n- **Otter.AI**®: oferece transcrição de áudio e geração de documentos organizados;\n- **JasperAI**®: gera textos customizados para atas com base em pontos fornecidos;\n- **Read.AI**®: aprimora a produtividade em reuniões, oferecendo recursos como transcrição automática e resumos gerados por IA (Figura 16).\n- **Zoom** (transcrição automática)\n- **Google** meet (Tome Notas por Mim)","x":-560,"y":-1204,"width":659,"height":249},
+		{"id":"8ca2f9efa9dccefc","type":"text","text":"*  Registrar as decisões tomadas, os pontos discutidos e as ações a serem executadas em encontros profissionais","x":-1438,"y":-1044,"width":501,"height":79},
+		{"id":"01bd436b74454161","x":-1400,"y":-863,"width":250,"height":60,"type":"text","text":"#### O Que São Atas de Reuniões?\n"},
+		{"id":"1404578e4def57b0","x":-1400,"y":-647,"width":250,"height":70,"type":"text","text":"#### Benefícios da Geração Automatizada de Atas"},
+		{"id":"e026955927e145ac","x":-1780,"y":-326,"width":250,"height":60,"type":"text","text":"### O Que São Resumos Executivos?\n"},
+		{"id":"e984fb931915cb2b","type":"text","text":"- versões condensadas de documentos extensos\n- IA pode processar grandes volumes de texto e extrair automaticamente as principais informações, economizando tempo e aumentando a precisão","x":-1561,"y":-480,"width":518,"height":123},
+		{"id":"170438ff8d1b9c66","type":"text","text":"**Ferramentas Recomendadas**\n- **Hugging Face Transformers**®: modelos pré-treinados para sumarização, como BART® e T5®;\n- **Quillbot**®: gera resumos precisos e objetivos a partir de textos extensos;\n- **JasperAI**: ferramenta versátil para geração de conteúdos, incluindo resumos executivos;\n- **Gamma.app**®: gera documentos e apresentações referentes a textos e prompts.","x":-1420,"y":160,"width":607,"height":240},
+		{"id":"7f9df41728dda303","x":-1400,"y":-276,"width":250,"height":140,"type":"text","text":"#### Como Funciona a Geração de Resumos Executivos com Inteligência Artificial?"},
+		{"id":"7db13787169e2266","type":"text","text":"\n* IA utiliza técnicas de Processamento de Linguagem Natural (PLN) e ML\n\t1. Análise do texto para identificar partes mais relevantes;\n\t2. Extração dos principais tópicos e ideias;\n\t3. Geração de um resumo fluente e preciso.","x":-1043,"y":-266,"width":583,"height":120}
+	],
+	"edges":[
+		{"id":"0b3e20762a954634","fromNode":"a3283444ae36d56d","fromSide":"right","toNode":"e026955927e145ac","toSide":"left"},
+		{"id":"b69267e8e60a2be6","fromNode":"e026955927e145ac","fromSide":"right","toNode":"170438ff8d1b9c66","toSide":"left"},
+		{"id":"1243494d42db9296","fromNode":"e026955927e145ac","fromSide":"right","toNode":"7f9df41728dda303","toSide":"left"},
+		{"id":"867f2bbd3700b5a0","fromNode":"a3283444ae36d56d","fromSide":"right","toNode":"8b664da4e1bfd8af","toSide":"left"},
+		{"id":"aa2c29400f7d902b","fromNode":"cb31a289caa30dce","fromSide":"right","toNode":"e0362122fcd7bada","toSide":"left"},
+		{"id":"18810fa08afdda3d","fromNode":"a3283444ae36d56d","fromSide":"right","toNode":"c4fe0409d9afde23","toSide":"left"},
+		{"id":"e9f97116eaf01126","fromNode":"01bd436b74454161","fromSide":"right","toNode":"379068c91bd4f78d","toSide":"left"},
+		{"id":"c34e4accfafd148f","fromNode":"c4fe0409d9afde23","fromSide":"right","toNode":"1404578e4def57b0","toSide":"left"},
+		{"id":"7f76b8b5db3a959f","fromNode":"8ca2f9efa9dccefc","fromSide":"right","toNode":"1fb25439c29d49ee","toSide":"left"},
+		{"id":"6f55d4fe5cf20a86","fromNode":"a3283444ae36d56d","fromSide":"top","toNode":"2567a1a505530349","toSide":"left"},
+		{"id":"ff8ebed92ea48ae0","fromNode":"8b664da4e1bfd8af","fromSide":"right","toNode":"cb31a289caa30dce","toSide":"left"},
+		{"id":"c2780ac992cdd1de","fromNode":"8b664da4e1bfd8af","fromSide":"right","toNode":"15269acd51bf4612","toSide":"left"},
+		{"id":"1a22d1fa68d73f63","fromNode":"c4fe0409d9afde23","fromSide":"right","toNode":"8ca2f9efa9dccefc","toSide":"left"},
+		{"id":"54f16830349355af","fromNode":"c4fe0409d9afde23","fromSide":"right","toNode":"01bd436b74454161","toSide":"left"},
+		{"id":"df3076ec2e2368cb","fromNode":"01bd436b74454161","fromSide":"right","toNode":"cedd1983b1625ef1","toSide":"left"},
+		{"id":"38380928c2aba646","fromNode":"1404578e4def57b0","fromSide":"right","toNode":"6d6a132a9786cb53","toSide":"left"},
+		{"id":"11c4caa780bd6f41","fromNode":"e026955927e145ac","fromSide":"top","toNode":"e984fb931915cb2b","toSide":"left"},
+		{"id":"b9ff058945a4787e","fromNode":"7f9df41728dda303","fromSide":"right","toNode":"7db13787169e2266","toSide":"left"}
+	]
+}

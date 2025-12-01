@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"39cc7638e7fba3ec","type":"text","text":"","x":-183,"y":-158,"width":250,"height":60},
+		{"id":"427f3a4f3c1f6037","type":"text","text":"Qual é o seu nível de conhecimento sobre Geração de Texto com Modelos de Linguagem?\n![[Genai-Turma2/Trilha1/M1 Ferramentas generativas para Texto/assets/U0/q1.png]]","x":-668,"y":-384,"width":648,"height":456},
+		{"id":"9927ccd95c1d6efe","type":"text","text":"Qual é o seu nível de compreensão sobre os campos de aplicação dos Modelos de Linguagem para Geração de Texto?\n![[Genai-Turma2/Trilha1/M1 Ferramentas generativas para Texto/assets/U0/q4.png]]","x":-668,"y":72,"width":648,"height":456},
+		{"id":"07a16ea3bd0a4656","type":"text","text":"# Questionário de Avaliação de Conhecimento Prévio\nTotal 21 Respostas\n","x":-64,"y":-528,"width":756,"height":88},
+		{"id":"7503b31a9bf86fa5","type":"text","text":"Você já participou de algum curso ou treinamento relacionado a Modelos de Linguagem para Geração de Textos?\n![[Genai-Turma2/Trilha1/M1 Ferramentas generativas para Texto/assets/U0/q2.png]]","x":-20,"y":-384,"width":648,"height":456},
+		{"id":"dc0a764b32f08651","type":"text","text":"Qual é o seu nível de experiência prática com GPT-3®?\n![[Genai-Turma2/Trilha1/M1 Ferramentas generativas para Texto/assets/U0/q5.png]]","x":-20,"y":70,"width":648,"height":456},
+		{"id":"2454b1ad7c999e75","type":"text","text":"Qual é o seu nível de compreensão sobre os funcionamentos dos Modelos de Linguagem para Geração de Texto?\n![[Genai-Turma2/Trilha1/M1 Ferramentas generativas para Texto/assets/U0/q3.png]]","x":628,"y":-384,"width":648,"height":456},
+		{"id":"ee271594ef1192b1","type":"text","text":"Qual é o seu nível de experiência prática com LaMDA®?\n![[Genai-Turma2/Trilha1/M1 Ferramentas generativas para Texto/assets/U0/q6.png]]","x":628,"y":70,"width":648,"height":458},
+		{"id":"7dc362df8f9ac3fa","type":"text","text":"![[cronogramaT1.png]]","x":-1276,"y":-200,"width":449,"height":624},
+		{"id":"87ec88a6372b61cd","type":"text","text":"Qual é o seu nível de experiência prática com BERT®?\n![[Genai-Turma2/Trilha1/M1 Ferramentas generativas para Texto/assets/U0/q7.png]]","x":-668,"y":530,"width":648,"height":456},
+		{"id":"c2a83763fe67f570","type":"text","text":"Qual é o seu nível de compreensão sobre Engenharia de Prompts?\n![[Genai-Turma2/Trilha1/M1 Ferramentas generativas para Texto/assets/U0/q8.png]]","x":-20,"y":528,"width":648,"height":456},
+		{"id":"2a06bc472681ede6","type":"text","text":"Qual é o seu nível de experiência prática em Ferramentas para manipulação de Modelos?\n![[q9.png]]","x":628,"y":528,"width":648,"height":458}
+	],
+	"edges":[]
+}

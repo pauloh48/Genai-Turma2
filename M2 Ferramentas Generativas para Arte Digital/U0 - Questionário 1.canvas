@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"6c335086286e8644","type":"text","text":"","x":-183,"y":-387,"width":250,"height":60},
+		{"id":"633beb26f36c412d","type":"text","text":"Você já participou de algum curso ou treinamento relacionado às Ferramentas generativas para Arte Digital?\n![[Genai-Turma2/Trilha1/M2 Ferramentas Generativas para Arte Digital/assets/U0/Q1.png]]","x":-668,"y":-613,"width":648,"height":456},
+		{"id":"8c29c4b50fb814d9","type":"text","text":"Qual é o seu nível de experiência prática com DALL-E 3?\n![[Genai-Turma2/Trilha1/M2 Ferramentas Generativas para Arte Digital/assets/U0/Q4.png]]","x":-668,"y":-157,"width":648,"height":456},
+		{"id":"20d68c98cee1680c","type":"text","text":"# Questionário de Avaliação de Conhecimento Prévio\nTotal 16 Respostas\n","x":-64,"y":-757,"width":756,"height":88},
+		{"id":"1bb6e78d5a96c74b","type":"text","text":" Qual é o seu nível de conhecimento sobre o imagens digitais?\n ![[Genai-Turma2/Trilha1/M2 Ferramentas Generativas para Arte Digital/assets/U0/Q2.png]]","x":-20,"y":-613,"width":648,"height":456},
+		{"id":"64bd0a5febde6a45","type":"text","text":"Qual é o seu nível de experiência prática com Midjourney?\n![[Genai-Turma2/Trilha1/M2 Ferramentas Generativas para Arte Digital/assets/U0/Q5.png]]","x":-20,"y":-159,"width":648,"height":456},
+		{"id":"14964ea86fc58339","type":"text","text":" Qual é o seu nível de experiência prática em ferramentas para geração de imagem digital?\n ![[Genai-Turma2/Trilha1/M2 Ferramentas Generativas para Arte Digital/assets/U0/Q3.png]]","x":628,"y":-613,"width":648,"height":456},
+		{"id":"93ecd97ff52d9772","type":"text","text":"Qual é o seu nível de experiência prática com Ideogram?\n![[Genai-Turma2/Trilha1/M2 Ferramentas Generativas para Arte Digital/assets/U0/Q6.png]]","x":628,"y":-159,"width":648,"height":458},
+		{"id":"5afff24a44d8061e","type":"text","text":"![[cronogramaT1.png]]","x":-1276,"y":-429,"width":449,"height":624},
+		{"id":"7536d63bce5351cc","type":"text","text":"Qual é o seu nível de conhecimento sobre engenharia de prompts para criação de arte digital?![[Genai-Turma2/Trilha1/M2 Ferramentas Generativas para Arte Digital/assets/U0/Q8.png]]","x":260,"y":299,"width":648,"height":456},
+		{"id":"e9e4d5873a29eb9f","type":"text","text":"Qual é o seu nível de experiência prática com Stable Diffusion?\n![[Genai-Turma2/Trilha1/M2 Ferramentas Generativas para Arte Digital/assets/U0/Q7.png]]","x":-388,"y":301,"width":648,"height":456}
+	],
+	"edges":[]
+}

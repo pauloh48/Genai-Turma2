@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"bb60e56b7d5c5398","type":"text","text":"Ideia para o dia\n* Perguntar o que acharam do minicuroso 3 e \n\t* se todos finalizaram\n\t* se tiveram algum problema ou dúvida\n* Comentar que o foco da tutora será da unidade 3, 4, 5  do minicuroso 3\n\n* O que acharam do exercício pratico da unidade 2\n* citar musicas de IA\n* Repassar unidade 1\n* Repassar unidade 2\n\nSugestões dadas no penultimo encontro\n* Tutoria de 1:30h, começando as 21:00\n* Ou selecionamos um dia especifico","x":-5200,"y":258,"width":640,"height":480},
+		{"id":"59b64b6eab1ac0a9","type":"text","text":"Thiago Soares da Cruz. perguntou de contabilizar mais + dias uma vez que o ava estava fora. Tem como prorrogar mais 2 dias, ja que o ava estava fora","x":-5080,"y":818,"width":400,"height":122},
+		{"id":"366278d3a5648577","type":"text","text":"mandar link: https://www.youtube.com/@BlowRecordsBR/videos","x":-5052,"y":998,"width":345,"height":60},
+		{"id":"e78b759bc148fa06","type":"text","text":"Charhcar perguntou: Notas no Sigaa, serão postadas?","x":-4560,"y":840,"width":274,"height":78},
+		{"id":"50881b768753a677","type":"text","text":"citou https://www.director.ai/ para extração de dados\n\ncitou: https://www.linkedin.com/posts/leonardocandidosiqueira_openai-acaba-de-liberar-o-c%C3%B3digo-de-um-sistema-activity-7341463468752941056-yD14","x":-4576,"y":968,"width":306,"height":290},
+		{"id":"8340b1fc6c749d57","type":"text","text":"Sobre tutoria\n* 20 minutos a mais em cada dia;","x":-5760,"y":474,"width":300,"height":184},
+		{"id":"ab74ff545565990f","type":"text","text":"Solicitou o mapa mental","x":-5540,"y":850,"width":250,"height":60},
+		{"id":"c3c6d095d001aafe","type":"text","text":"# M3","x":-4920,"y":140,"width":250,"height":60},
+		{"id":"affc9c1fcbf958b1","type":"text","text":"Ideia para o dia\n* Perguntar o que acharam do minicuroso 2 \n\t* Ronen: tudo tranquilo;\n\t* Rodrigo: não fez;\n* Comentar que o foco da tutora será da unidade 1 a 2 do minicuroso\n* Repassar plano de estudo\n* Mostrar questionario de conhecimento previo\n* Perguntar o que acharam da unidade 1 e 2 do M3\n* O que acharam do exercício pratico da unidade 2\n* citar musicas de IA\n* Repassar unidade 1\n* Repassar unidade 2","x":-6480,"y":288,"width":620,"height":480},
+		{"id":"ce471317af2d8499","type":"text","text":"# M2 e M3","x":-6360,"y":170,"width":340,"height":60},
+		{"id":"e4194ae9d92902ff","type":"text","text":"# M4","x":-3960,"y":140,"width":250,"height":60},
+		{"id":"b445d2964836be75","type":"text","text":"30/06/2025\ndeia para o dia\n* Perguntar o que estão achando do minicuroso 4\n* Solicitar que os que não finalizaram o M4, M3 e M2 \n\t* Comentar que terá a ultima unidade (5) e após isso se inicia a trilha 2 (no dia 14/07) \n* Comentar que o foco da tutora será da unidade 1, 2\n---\n* Repassar plano de estudo\n* Mostrar questionário de conhecimento prévio\n\n**07/07/2025** tutoria ideia\n* Perguntar o que acharam do M4 e solicitar feedbacks\n* Solicitar que finalizem os minicuros, \n* Notas no AVA serão disponibilizados nessa semana\n* Notas no SIGAA após dia 14/07\n* Foco será unidades 3 e 4","x":-4155,"y":258,"width":640,"height":542},
+		{"id":"e1441239ebc743f8","type":"text","text":"### Dia 30/06/2025\n* Finalizar unidade 3, 4, 5\n* Fazer breve revisão com folhinha de cola","x":-5052,"y":1228,"width":345,"height":172},
+		{"id":"68f436b67ca46cf2","type":"text","text":"# M5","x":-3205,"y":140,"width":250,"height":60},
+		{"id":"88b6a94e2535df2e","type":"text","text":"**07/07/2025** tutoria ideia\nideia para o dia\n* Repassar plano de estudo\n* Mostrar questionário de conhecimento prévio\n* Perguntar o que estão achando do minicuroso 5\n* Comentar que o foco da tutora será da unidade 1, 2\n---","x":-3400,"y":258,"width":640,"height":480}
+	],
+	"edges":[
+		{"id":"9786e9f19e8c3f4a","fromNode":"bb60e56b7d5c5398","fromSide":"bottom","toNode":"59b64b6eab1ac0a9","toSide":"top"},
+		{"id":"8dec94068a53fa16","fromNode":"59b64b6eab1ac0a9","fromSide":"bottom","toNode":"366278d3a5648577","toSide":"top"},
+		{"id":"18ae616ea6742e11","fromNode":"59b64b6eab1ac0a9","fromSide":"right","toNode":"e78b759bc148fa06","toSide":"left"},
+		{"id":"2fc851ba60f6babf","fromNode":"e78b759bc148fa06","fromSide":"bottom","toNode":"50881b768753a677","toSide":"top"},
+		{"id":"794ff544d4438a26","fromNode":"bb60e56b7d5c5398","fromSide":"left","toNode":"8340b1fc6c749d57","toSide":"right"},
+		{"id":"aad7519a0045cd77","fromNode":"59b64b6eab1ac0a9","fromSide":"left","toNode":"ab74ff545565990f","toSide":"right"},
+		{"id":"927eae1c941e358d","fromNode":"bb60e56b7d5c5398","fromSide":"bottom","toNode":"e1441239ebc743f8","toSide":"top"}
+	]
+}
