@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"427ad81f71eb6c65","type":"text","text":"","x":-183,"y":-387,"width":250,"height":60},
+		{"id":"740c8e051721e2fa","type":"text","text":"Qual é o seu nível de compreensão sobre áudio?\n![[Genai-Turma2/Trilha1/M3 Ferramentas generativas para Áudio, Voz e Música/assets/U0/Q1.png]]","x":-668,"y":-613,"width":648,"height":456},
+		{"id":"4258520ba1d9ec2a","type":"text","text":"Qual é o seu nível de experiência prática com ferramentas generativas para voz?\n![[Genai-Turma2/Trilha1/M3 Ferramentas generativas para Áudio, Voz e Música/assets/U0/Q4.png]]","x":-668,"y":-157,"width":648,"height":456},
+		{"id":"9f3e0b2d8b953af6","type":"text","text":"# Questionário de Avaliação de Conhecimento Prévio\nTotal 11 Respostas\n","x":-64,"y":-757,"width":756,"height":88},
+		{"id":"550173fda4dd15b8","type":"text","text":" Qual é o seu nível de conhecimento sobre arquiteturas para geração de áudio?![[Genai-Turma2/Trilha1/M3 Ferramentas generativas para Áudio, Voz e Música/assets/U0/Q2.png]]","x":-20,"y":-613,"width":648,"height":456},
+		{"id":"4a06c55b4f40d7e3","type":"text","text":"Qual é o seu nível de experiência prática com ferramentas generativas para Áudio?\n![[Genai-Turma2/Trilha1/M3 Ferramentas generativas para Áudio, Voz e Música/assets/U0/Q5.png]]","x":-20,"y":-159,"width":648,"height":456},
+		{"id":"26a3d0dbab795a5b","type":"text","text":"Qual é o seu nível de conhecimento sobre tarefas de geração em voz?\n![[Genai-Turma2/Trilha1/M3 Ferramentas generativas para Áudio, Voz e Música/assets/U0/Q3.png]]","x":628,"y":-613,"width":648,"height":456},
+		{"id":"5fa2103bd3002c5b","type":"text","text":"Qual é o seu nível de experiência prática com ferramentas generativas para Música?![[Genai-Turma2/Trilha1/M3 Ferramentas generativas para Áudio, Voz e Música/assets/U0/Q6.png]]","x":628,"y":-159,"width":648,"height":458},
+		{"id":"80492e362aee9fbd","type":"text","text":"![[cronogramaT1.png]]","x":-1276,"y":-429,"width":449,"height":624}
+	],
+	"edges":[]
+}

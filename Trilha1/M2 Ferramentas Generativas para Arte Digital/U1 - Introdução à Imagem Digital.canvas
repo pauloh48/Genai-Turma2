@@ -24,7 +24,7 @@
 		{"id":"54aec0411605af70","type":"text","text":"**Amostragem**:\n* Converte em coordenadas, pixels","x":3206,"y":-163,"width":326,"height":86},
 		{"id":"68409a011fe39c5e","type":"text","text":"![[pixel.png]]","x":3080,"y":-816,"width":198,"height":167},
 		{"id":"a6938e1a5c2e6f3c","type":"text","text":"![[Genai-Turma2/Trilha1/M2 Ferramentas Generativas para Arte Digital/assets/U1/resolução.png]]","x":3100,"y":-530,"width":519,"height":168},
-		{"id":"52e8d82f5a86b34c","x":3666,"y":-163,"width":250,"height":240,"type":"text","text":"![[Genai-Turma2/Trilha1/M2 Ferramentas Generativas para Arte Digital/assets/U1/discretizacao.png]]"},
+		{"id":"52e8d82f5a86b34c","type":"text","text":"![[Genai-Turma2/Trilha1/M2 Ferramentas Generativas para Arte Digital/assets/U1/discretizacao.png]]","x":3666,"y":-163,"width":250,"height":240},
 		{"id":"646c2d04dae09d55","type":"text","text":"![[Genai-Turma2/Trilha1/M2 Ferramentas Generativas para Arte Digital/assets/U1/onda_freq.png]]","x":1606,"y":-1344,"width":765,"height":480},
 		{"id":"1847146ce8487845","type":"text","text":"![[visao.png]]","x":1606,"y":-1850,"width":746,"height":430},
 		{"id":"66d82b3e411cd34b","type":"text","text":"**Onda**\n![[onda.png]]","x":2551,"y":-1316,"width":392,"height":259},
@@ -60,6 +60,7 @@
 		{"id":"5af27d906d241ea4","fromNode":"a6938e1a5c2e6f3c","fromSide":"bottom","toNode":"9ce58bc522dd3bc7","toSide":"top"},
 		{"id":"de841adbe971a41b","fromNode":"a6938e1a5c2e6f3c","fromSide":"bottom","toNode":"7862376d15afa3ba","toSide":"top"},
 		{"id":"ceae6c6c97e6ad25","fromNode":"54aec0411605af70","fromSide":"right","toNode":"52e8d82f5a86b34c","toSide":"left"},
-		{"id":"c25d03f227bebbf6","fromNode":"ac1720a2819e9b52","fromSide":"right","toNode":"52e8d82f5a86b34c","toSide":"left"}
+		{"id":"c25d03f227bebbf6","fromNode":"ac1720a2819e9b52","fromSide":"right","toNode":"52e8d82f5a86b34c","toSide":"left"},
+		{"id":"6bb30d83df02430a","fromNode":"0be36fa976bdbd82","fromSide":"bottom","toNode":"a6938e1a5c2e6f3c","toSide":"top"}
 	]
 }
