@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"4da95273b9a1ebf5","type":"text","text":"# Questionário de Avaliação de Conhecimento Prévio\nTotal 19 Respostas\n","x":-74,"y":-760,"width":756,"height":88},
+		{"id":"107e2042ac891db6","type":"text","text":"![[cronogramaT2M7.png]]","x":-1160,"y":-585,"width":420,"height":400},
+		{"id":"835de41dd08844ff","type":"text","text":"Qual é o seu nível de conhecimento sobre o tema deste Machine Learning e Redes Neurais?![[Genai-Turma2/Trilha2/M7 Introdução a ML e RN/assets/U0/Q1.png]]","x":-668,"y":-613,"width":648,"height":456},
+		{"id":"71380b958d9b9403","type":"text","text":"Você já participou de algum curso ou treinamento relacionado a este tema?\n![[Genai-Turma2/Trilha2/M7 Introdução a ML e RN/assets/U0/Q2.png]]","x":-20,"y":-613,"width":648,"height":456},
+		{"id":"c32b857c79a42231","type":"text","text":"Qual é o seu nível de compreensão dos conceitos relacionados com reconhecimento de padrões?\n![[Genai-Turma2/Trilha2/M7 Introdução a ML e RN/assets/U0/Q3.png]]","x":628,"y":-613,"width":648,"height":456},
+		{"id":"1555fb46c90c50fd","type":"text","text":"Qual é o seu nível de conhecimento sobre tipos de aprendizagem de máquina?\n![[Genai-Turma2/Trilha2/M7 Introdução a ML e RN/assets/U0/Q4.png]]","x":-668,"y":-157,"width":648,"height":456},
+		{"id":"e7b23bec8528fd6c","type":"text","text":"Qual é o seu nível de conhecimento sobre funções discriminantes, envolvendo suas aplicações e principais algoritmos?\n![[Genai-Turma2/Trilha2/M7 Introdução a ML e RN/assets/U0/Q6.png]]","x":628,"y":-159,"width":648,"height":458},
+		{"id":"3b00cb4c2df7ae61","type":"text","text":"Qual é o seu nível de compreensão envolvendo conjunto de dados, no que diz respeito à limpeza dos mesmos, pré-processamento, seleção e engenharia de características, underfitting e overfitting, dentre outros?\n![[Genai-Turma2/Trilha2/M7 Introdução a ML e RN/assets/U0/Q7.png]]","x":-668,"y":299,"width":648,"height":456},
+		{"id":"5e9209a018389067","type":"text","text":"Qual é o seu nível de conhecimento sobre regressão, com relação a métricas de avaliação e tipos de regressão?\n![[Genai-Turma2/Trilha2/M7 Introdução a ML e RN/assets/U0/Q8.png]]","x":-20,"y":299,"width":648,"height":456},
+		{"id":"56e726f26e85e8d3","type":"text","text":"Qual é o seu nível de compreensão sobre classificadores e algoritmos de agrupamento de dados?\n![[Genai-Turma2/Trilha2/M7 Introdução a ML e RN/assets/U0/Q9.png]]","x":628,"y":299,"width":648,"height":456},
+		{"id":"ae18b66fafd120ac","type":"text","text":"Qual é o seu nível de experiência prática com o tema deste microcurso?\n![[Genai-Turma2/Trilha2/M7 Introdução a ML e RN/assets/U0/Q10.png]]","x":-20,"y":755,"width":648,"height":456},
+		{"id":"0950ca854e63dfdf","type":"text","text":"Qual é o seu nível de compreensão sobre assuntos relacionados com espaços de características como extração, seleção, maldição da dimensionalidade, transformação do espaço de características, redução da dimensionalidade, dentre outros?\n![[Genai-Turma2/Trilha2/M7 Introdução a ML e RN/assets/U0/Q5.png]]","x":-20,"y":-159,"width":648,"height":456}
+	],
+	"edges":[]
+}

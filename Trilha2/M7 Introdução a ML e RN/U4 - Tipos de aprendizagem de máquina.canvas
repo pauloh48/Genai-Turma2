@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"ed91bdc379a58bed","type":"text","text":"![[tipos_aprendizagem.png]]","x":203,"y":-581,"width":540,"height":309},
+		{"id":"82bb3e2c0dfcf97b","type":"text","text":"**Supervisionada**: usam dados rotulados\n* Objetivo: Mapear entradas (arranjos de padrões) para saídas corretas (classes), permitindo que ele faça previsões sobre novos dados\n* Ex.: Naive Bayes e Support Vector Machines (SVM)","x":203,"y":-218,"width":537,"height":180},
+		{"id":"a8056f4e4a6c5c15","type":"text","text":"![[analogia_nao_supervisionada.png]]","x":1026,"y":360,"width":311,"height":288},
+		{"id":"8d220d82cf0f14e1","type":"text","text":"![[nao_supervisionada.png]]","x":1026,"y":648,"width":608,"height":235,"color":"4"},
+		{"id":"802ed7c02ede24d7","type":"text","text":"o biólogo não possui rótulos prévios (nomes das espécies), mas observa características das plantas e percebe **similaridades**. A partir disso, ele **agrupa** as árvores em categorias de forma natural, sem saber exatamente a que espécie pertencem.","x":1337,"y":360,"width":297,"height":288},
+		{"id":"e0078763304f09d6","type":"text","text":"**Não-supervisionada**: !usam dados rotulados\n* Objetivo: Encontrar padrões ou agrupamentos nos dados sem orientação explícita sobre o que procurar\n* Ex.: K-means e Density-Based Spatial Clustering of Applications with Noise (DBSCAN)","x":203,"y":553,"width":537,"height":190},
+		{"id":"def37796a35ec0a7","type":"text","text":"**Semi-supervisionada**: usa - dados rotulados e + !rotulados\n* Objetivo: aproveita os dados rotulados para aprender e, em seguida, refinar seu conhecimento com os dados não rotulados\n* Ex.: Semi-Supervised SVM","x":200,"y":1246,"width":540,"height":164},
+		{"id":"2bd47ed960f8c0c1","type":"text","text":"**Por reforço**: sistema de recompensa e punição\n* Objetivo: maximizar a recompensa total ao longo do tempo\n* Ex.: _Q-Learning, Deep Q-Network_","x":203,"y":1898,"width":540,"height":140},
+		{"id":"8af1ba6553481a5f","type":"text","text":"# U4. Tipos de aprendizagem de máquina","x":-480,"y":743,"width":438,"height":104},
+		{"id":"e36f4ed0ce7e3a14","type":"text","text":"![[analogia_supervisionada.png]]","x":1019,"y":-417,"width":311,"height":289},
+		{"id":"81b354f9ca11718c","type":"text","text":"ao ver várias frutas (entradas) com seus nomes (saídas), a criança aprende a associar aparência a rótulos. Depois, consegue reconhecer novas variações (ex.: maçã verde ou vermelha) porque identifica **características comuns** que diferenciam essa fruta das demais.","x":1330,"y":-417,"width":304,"height":289},
+		{"id":"f5b4aca75a2a4d64","type":"text","text":"![[analogia_semi_supervisionada.png]]","x":1041,"y":1040,"width":304,"height":288},
+		{"id":"d09c0544edb4bad7","type":"text","text":"Imagine um estudante que recebe algumas respostas corretas de um professor (dados rotulados) e, em seguida, tenta completar o restante da tarefa por conta própria usando essas respostas como referência.","x":1345,"y":1040,"width":307,"height":288},
+		{"id":"7e057a210f222d25","type":"text","text":"![[semi_supervisionada.png]]","x":1037,"y":1328,"width":615,"height":180,"color":"4"},
+		{"id":"6b7cc398efbf4a22","type":"text","text":"![[reforco.png]]","x":1041,"y":1968,"width":615,"height":200,"color":"4"},
+		{"id":"da23c20bec7577f5","type":"text","text":"o cão aprende por **tentativa e erro**, guiado por **recompensas** (petisco) e **punições** (ausência da recompensa). Com o tempo, ele ajusta seu comportamento para maximizar as recompensas — no caso, buscar a bola corretamente.","x":1360,"y":1680,"width":296,"height":288},
+		{"id":"7a915be49674950d","type":"text","text":"![[analogia_reforco.png]]","x":1041,"y":1680,"width":320,"height":288},
+		{"id":"bb2922502d29ec0f","type":"text","text":"![[supervisionada.png]]","x":1023,"y":-120,"width":615,"height":340,"color":"4"},
+		{"id":"2f4a2db2f91d4206","x":300,"y":823,"width":340,"height":60,"type":"text","text":"Poderia criar uma classe nova?"}
+	],
+	"edges":[
+		{"id":"6ed218c5f1c2242e","fromNode":"8af1ba6553481a5f","fromSide":"top","toNode":"ed91bdc379a58bed","toSide":"left"},
+		{"id":"c8db143dd4aba872","fromNode":"8af1ba6553481a5f","fromSide":"right","toNode":"82bb3e2c0dfcf97b","toSide":"left"},
+		{"id":"015c13e65a171a6d","fromNode":"8af1ba6553481a5f","fromSide":"right","toNode":"e0078763304f09d6","toSide":"left"},
+		{"id":"28769a17919d374d","fromNode":"8af1ba6553481a5f","fromSide":"right","toNode":"def37796a35ec0a7","toSide":"left"},
+		{"id":"83b7c8f899752991","fromNode":"8af1ba6553481a5f","fromSide":"right","toNode":"2bd47ed960f8c0c1","toSide":"left"},
+		{"id":"07c9331fdb756950","fromNode":"82bb3e2c0dfcf97b","fromSide":"right","toNode":"bb2922502d29ec0f","toSide":"left","label":"etapas"},
+		{"id":"82edb38b1f6b1439","fromNode":"82bb3e2c0dfcf97b","fromSide":"right","toNode":"e36f4ed0ce7e3a14","toSide":"left","label":"analogia"},
+		{"id":"853f46ab3702398e","fromNode":"e0078763304f09d6","fromSide":"right","toNode":"8d220d82cf0f14e1","toSide":"left","label":"etapas"},
+		{"id":"49c9e6f3f9abfc1a","fromNode":"e36f4ed0ce7e3a14","fromSide":"top","toNode":"81b354f9ca11718c","toSide":"top"},
+		{"id":"5941d39f4aaa8871","fromNode":"def37796a35ec0a7","fromSide":"right","toNode":"7e057a210f222d25","toSide":"left","label":"etapas"},
+		{"id":"771c13f72a70d1bf","fromNode":"2bd47ed960f8c0c1","fromSide":"right","toNode":"6b7cc398efbf4a22","toSide":"left","label":"etapas"},
+		{"id":"37ca899688267d83","fromNode":"e0078763304f09d6","fromSide":"right","toNode":"a8056f4e4a6c5c15","toSide":"left","label":"analogia"},
+		{"id":"a2f98a92cfd85cfb","fromNode":"a8056f4e4a6c5c15","fromSide":"top","toNode":"802ed7c02ede24d7","toSide":"top"},
+		{"id":"ce3c194c8a257631","fromNode":"def37796a35ec0a7","fromSide":"right","toNode":"f5b4aca75a2a4d64","toSide":"left","label":"analogia"},
+		{"id":"17754062dae0561c","fromNode":"2bd47ed960f8c0c1","fromSide":"right","toNode":"7a915be49674950d","toSide":"left","label":"analogia"},
+		{"id":"d44e8fcbdccbe9b5","fromNode":"f5b4aca75a2a4d64","fromSide":"top","toNode":"d09c0544edb4bad7","toSide":"top"},
+		{"id":"7b9907ca199d4c48","fromNode":"7a915be49674950d","fromSide":"top","toNode":"da23c20bec7577f5","toSide":"top"},
+		{"id":"fbb9253078e61a40","fromNode":"e0078763304f09d6","fromSide":"bottom","toNode":"2f4a2db2f91d4206","toSide":"top"}
+	]
+}

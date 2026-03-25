@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"041d5de6fa39acea","type":"text","text":"### 🔎 O que é Agrupamento (Clustering)?\n\n- É uma técnica de **aprendizado não supervisionado** → os dados **não têm rótulos**.\n    \n- Objetivo: **encontrar grupos escondidos** nos dados, baseados em semelhanças.  \n    👉 Exemplo: numa loja online de sapatos, sem ter rótulos de clientes, conseguimos separar:\n    \n- 👟 Quem compra esportivos\n    \n- 👞 Quem compra sociais\n    \n- 🥿 Quem prefere casuais","x":0,"y":-400,"width":652,"height":253},
+		{"id":"c8b0a2cbc9f13441","type":"text","text":"### 🛠️ Como funciona?\n\n- O algoritmo olha as **variáveis** (idade, compras, profissão etc.)\n    \n- Junta quem é parecido → forma **clusters** (grupos).\n    \n- Separa quem é diferente → cada grupo é distinto.","x":0,"y":-117,"width":652,"height":157},
+		{"id":"622660077f31d7af","type":"text","text":"* Exemplos de algoritmos\n![[alg_agrupamentos.png]]","x":0,"y":80,"width":657,"height":370},
+		{"id":"2991acbab4ef9422","type":"text","text":"**1. K-Means**\n\n- Usuário escolhe **K** (número de grupos).\n    \n- Passos:\n    \n    1. Sorteia pontos iniciais (centróides).\n        \n    2. Cada dado vai para o grupo mais próximo.\n        \n    3. Calcula o novo “centro” de cada grupo.\n        \n    4. Repete até estabilizar.\n        \n- Pontos fortes: rápido e funciona bem em muitos dados.\n    \n- Pontos fracos: precisa escolher **K** antes e sofre com **outliers**.","x":0,"y":500,"width":652,"height":300},
+		{"id":"7716a523ae6656c1","type":"text","text":"**2. DBSCAN** (alternativa moderna ao K-Means)\n\n- Forma grupos baseados em **densidade de pontos**.\n    \n- Vantagem: Identifica e exclui **outliers** (ruídos).\n    \n- Não precisa escolher **K**.\n    \n- Encontra grupos de qualquer formato (não só redondinhos como no K-Means).","x":0,"y":860,"width":652,"height":180},
+		{"id":"b014c94117772ee1","type":"text","text":"## Principais Algoritmos","x":-440,"y":766,"width":289,"height":68},
+		{"id":"d25292a77b57fa2c","type":"text","text":"![[kmeans.png]]","x":860,"y":530,"width":545,"height":240},
+		{"id":"a9e6c799dc0d0b2a","type":"text","text":"![[dbscan.png]]","x":860,"y":860,"width":545,"height":190},
+		{"id":"fdcb258b66a0fc96","type":"text","text":"# Agrupamento","x":-1000,"y":320,"width":265,"height":77},
+		{"id":"c9926957dda59cbf","x":-555,"y":1240,"width":404,"height":70,"type":"text","text":"## Avaliação dos Agrupamentos"},
+		{"id":"a0f3780147e374e7","x":77,"y":1234,"width":663,"height":246,"type":"text","text":"Diferente da classificação, aqui não temos rótulos prontos, logo,  avaliar é mais difícil. \nAssim, há 2 formas de avaliar:\n\n- **Interna (sem rótulos)** → olha só para a separação entre grupos.\n    \n    - Exemplo: **Índice de Silhueta** → mede se cada ponto está bem dentro do seu grupo.\n        \n- **Externa (com alguns rótulos de referência)** → compara com classes reais.\n    \n    - Exemplo: **Rand Index** → mede quão parecidos estão os grupos encontrados com os rótulos verdadeiros."}
+	],
+	"edges":[
+		{"id":"396a66eeec53cf8a","fromNode":"fdcb258b66a0fc96","fromSide":"right","toNode":"041d5de6fa39acea","toSide":"left"},
+		{"id":"ff7c5287a8b69a8a","fromNode":"fdcb258b66a0fc96","fromSide":"right","toNode":"c8b0a2cbc9f13441","toSide":"left"},
+		{"id":"1016324238c0e7f1","fromNode":"fdcb258b66a0fc96","fromSide":"right","toNode":"622660077f31d7af","toSide":"left","label":"algoritmos"},
+		{"id":"75e24cf1d1be7d54","fromNode":"fdcb258b66a0fc96","fromSide":"right","toNode":"b014c94117772ee1","toSide":"left"},
+		{"id":"2adf89b56bfcebfe","fromNode":"b014c94117772ee1","fromSide":"right","toNode":"2991acbab4ef9422","toSide":"left"},
+		{"id":"dea747b1766feb85","fromNode":"b014c94117772ee1","fromSide":"right","toNode":"7716a523ae6656c1","toSide":"left"},
+		{"id":"77d84bc1c5c23553","fromNode":"2991acbab4ef9422","fromSide":"right","toNode":"d25292a77b57fa2c","toSide":"left","label":"exemplo"},
+		{"id":"0b38f3ab92d48caa","fromNode":"7716a523ae6656c1","fromSide":"right","toNode":"a9e6c799dc0d0b2a","toSide":"left","label":"comparação"},
+		{"id":"79780b627718008c","fromNode":"fdcb258b66a0fc96","fromSide":"bottom","toNode":"c9926957dda59cbf","toSide":"left"},
+		{"id":"f32f68435c744338","fromNode":"c9926957dda59cbf","fromSide":"right","toNode":"a0f3780147e374e7","toSide":"left"}
+	]
+}

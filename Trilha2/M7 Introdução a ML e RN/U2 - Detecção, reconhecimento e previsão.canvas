@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"4387a49122481305","type":"text","text":"## Detecção de padrões e anomalias","x":179,"y":-231,"width":361,"height":91},
+		{"id":"74ad683de615bcc8","type":"text","text":"| Termo         | Significado                                                | Exemplo prático                      |\n| ------------- | ---------------------------------------------------------- | ------------------------------------ |\n| **Padrão**    | Algo que **acontece com frequência** nos dados             | Clientes jovens compram mais à noite |\n| **Anomalia**  | Algo que **quebra o padrão**, um **caso raro ou estranho** | Uma compra de R$ 50.000 no cartão    |\n| **Modelo ML** | Aprende os padrões e **usa isso para prever, classificar** | Prever se um e-mail é spam ou não    |","x":780,"y":-520,"width":640,"height":220},
+		{"id":"dc6eb8184237c639","type":"text","text":"| Tipo de dado         | Padrões (regularidades)                           | Anomalias                             |\n| -------------------- | ------------------------------------------------- | ------------------------------------- |\n| **Séries temporais** | Tendências (ex: vendas sobem todo Natal)          | Um pico de acesso repentino no site   |\n| **Imagens**          | Formas e cores que aparecem sempre (ex: um rosto) | Um defeito estranho numa peça visual  |\n| **Texto**            | Palavras frequentes                               | Uma frase fora do contexto            |\n| **Dados tabulares**  | Grupos de pessoas com comportamento parecido      | Um cliente com padrão de compra único |","x":780,"y":-248,"width":640,"height":268},
+		{"id":"ddec563a519d6f52","type":"text","text":"# U2. Detecção, reconhecimento e previsão","x":-720,"y":240,"width":471,"height":99},
+		{"id":"901a312485b5399b","type":"text","text":"|Área|Exemplo de Detecção|\n|---|---|\n|Segurança|Detectar **objetos suspeitos** em raio-X no aeroporto|\n|Finanças|Detectar **fraude** em uma transação|\n|Medicina|Detectar **tumores** em exames de imagem|\n|Manutenção|Detectar **falhas em máquinas** a partir de sinais/sensores|\n|Visão computacional|Detectar **rostos** em uma imagem|","x":1680,"y":258,"width":646,"height":221},
+		{"id":"724458592b95d878","type":"text","text":"| Área     | Exemplo de Previsão                                     |\n| -------- | ------------------------------------------------------- |\n| Vendas   | Prever a **demanda de um produto** na próxima semana    |\n| Clima    | Prever a **temperatura** dos próximos dias              |\n| Educação | Prever se um aluno **vai passar ou reprovar**           |\n| Finanças | Prever o **preço de ações** com base em tendências      |\n| Tráfego  | Prever o **tempo de trajeto** de um carro até o destino |\n","x":1680,"y":979,"width":560,"height":217},
+		{"id":"e41926e0c73919df","type":"text","text":"| Área                | Exemplo de Reconhecimento                           |\n| ------------------- | --------------------------------------------------- |\n| Visão computacional | Reconhecer **quem é a pessoa** na foto (identidade) |\n| Fala                | Reconhecer **comando de voz**: “ligar luz”          |\n| Escrita             | Reconhecer **letras ou números escritos à mão**     |\n| Texto               | Reconhecer **emoções** em mensagens (NLP)           |\n| Biometria           | Reconhecer **impressão digital ou íris**            |\n","x":1680,"y":632,"width":600,"height":230},
+		{"id":"841d419b2c7b8350","type":"text","text":"## Detecção, Previsão e Reconhecimento","x":-200,"y":703,"width":361,"height":88},
+		{"id":"e210a9c39b7d7f87","type":"text","text":"![[reconhecimento.png]]","x":880,"y":577,"width":712,"height":340},
+		{"id":"905c965e8d451e02","type":"text","text":"![[previsao.png]]","x":880,"y":917,"width":712,"height":340},
+		{"id":"fdd412c1e3a1e6c3","type":"text","text":"![[Pasted image 20250807220817.png]]","x":880,"y":160,"width":712,"height":417},
+		{"id":"5683130f7b37bfa4","type":"text","text":"**Diferenciação**\n![[Pasted image 20250807221456.png]]","x":200,"y":625,"width":576,"height":245}
+	],
+	"edges":[
+		{"id":"48283f30daff3dda","fromNode":"ddec563a519d6f52","fromSide":"right","toNode":"4387a49122481305","toSide":"left"},
+		{"id":"92f5cc043043d08c","fromNode":"ddec563a519d6f52","fromSide":"right","toNode":"841d419b2c7b8350","toSide":"left"},
+		{"id":"f3497ebe8fb931e1","fromNode":"4387a49122481305","fromSide":"right","toNode":"74ad683de615bcc8","toSide":"left","label":"resumo"},
+		{"id":"92252a0e072f2550","fromNode":"4387a49122481305","fromSide":"right","toNode":"dc6eb8184237c639","toSide":"left","label":"onde aparecem"},
+		{"id":"b0c6dccb5f8b2a76","fromNode":"5683130f7b37bfa4","fromSide":"right","toNode":"fdd412c1e3a1e6c3","toSide":"left"},
+		{"id":"ea696b5f026247a5","fromNode":"5683130f7b37bfa4","fromSide":"right","toNode":"e210a9c39b7d7f87","toSide":"left"},
+		{"id":"c11dfbfd0c075980","fromNode":"5683130f7b37bfa4","fromSide":"right","toNode":"905c965e8d451e02","toSide":"left"},
+		{"id":"58f30ee7c9b3e2dc","fromNode":"fdd412c1e3a1e6c3","fromSide":"right","toNode":"901a312485b5399b","toSide":"left"},
+		{"id":"7ad690dca7ba8354","fromNode":"905c965e8d451e02","fromSide":"right","toNode":"724458592b95d878","toSide":"left"},
+		{"id":"8dc6a70d599b26d2","fromNode":"e210a9c39b7d7f87","fromSide":"right","toNode":"e41926e0c73919df","toSide":"left"},
+		{"id":"32cf7f3882701df4","fromNode":"841d419b2c7b8350","fromSide":"right","toNode":"5683130f7b37bfa4","toSide":"left"}
+	]
+}
