@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"12f50b91598864bd","type":"text","text":"","x":-487,"y":-616,"width":250,"height":60},
+		{"id":"7d31d47559135d6a","type":"text","text":"Qual é o seu nível de conhecimento sobre Arquiteturas neurais avançadas para IA generativa multimodal?\n![[Pasted image 20260706201657.png]]","x":-972,"y":-842,"width":648,"height":456},
+		{"id":"5530acc42655840f","type":"text","text":"Qual é o seu nível de experiência prática com Transformers Multimodais?\n![[Pasted image 20260706201750.png]]","x":-972,"y":-386,"width":648,"height":456},
+		{"id":"01b5f7eb81aa9fcf","type":"text","text":"# Questionário de Avaliação de Conhecimento Prévio (Data Limite para finalização M12 - 11/01/26)\n","x":-368,"y":-986,"width":756,"height":72},
+		{"id":"9cd03dedbd86e748","type":"text","text":"Qual é o seu nível de conhecimento sobre Modalidades e Multimodalidade para as  IA generativa?\n![[Pasted image 20260706201715.png]]","x":-324,"y":-842,"width":648,"height":456},
+		{"id":"4f883f8d128048ac","type":"text","text":"Qual é o seu nível de experiência prática com Arquiteturas Áudio-Texto?\n![[Pasted image 20260706201810.png]]","x":-324,"y":-388,"width":648,"height":456},
+		{"id":"2442566b9489d692","type":"text","text":"Qual é o seu nível de compreensão dos principais desafios da multimodalidade?\n![[Pasted image 20260706201736.png]]","x":324,"y":-842,"width":648,"height":456},
+		{"id":"4b22bcca6edcea60","type":"text","text":"Qual é o seu nível de conhecimento sobre Modelos Fundacionais Multimodais?\n![[Pasted image 20260706201827.png]]","x":324,"y":-388,"width":648,"height":458},
+		{"id":"a71ff39ad8f2381b","type":"text","text":"6 pessoas responderam","x":-125,"y":-904,"width":250,"height":50},
+		{"id":"8cd70dd237a10243","type":"file","file":"Genai-Turma2/Trilha3/M12 Arquiteturas Neurais Avançadas para IA Generativa Multimodal/assets/U0/Cronograma12.png","x":-1340,"y":-842,"width":260,"height":516}
+	],
+	"edges":[]
+}

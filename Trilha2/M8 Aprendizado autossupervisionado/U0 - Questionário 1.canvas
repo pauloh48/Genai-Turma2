@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f1dca676d115e9df","type":"text","text":"# Questionário de Avaliação de Conhecimento Prévio\nTotal 16 Respostas\n","x":-132,"y":-985,"width":756,"height":88},
+		{"id":"1f040f3d9ffed852","type":"text","text":"![[cronogramT2M8.png]]","x":-1218,"y":-810,"width":420,"height":400},
+		{"id":"aa0cd817f36e18d2","type":"text","text":"Qual é o seu nível de conhecimento sobre aprendizado autossupervisionado?\n![[Genai-Turma2/Trilha2/M8 Aprendizado autossupervisionado/assets/U0/Q1.png]]","x":-726,"y":-810,"width":648,"height":456},
+		{"id":"ac717e75de855bce","type":"text","text":"Qual é o seu nível de conhecimento sobre os Modelos Generativos?\n![[Genai-Turma2/Trilha2/M8 Aprendizado autossupervisionado/assets/U0/Q4.png]]","x":-726,"y":-354,"width":648,"height":456},
+		{"id":"6910f2e85fc619d2","type":"text","text":"Você já participou de algum curso ou treinamento relacionado ao aprendizado autossupervisionado?\n![[Genai-Turma2/Trilha2/M8 Aprendizado autossupervisionado/assets/U0/Q2.png]]","x":-78,"y":-810,"width":648,"height":456},
+		{"id":"0ea22640d81924f7","type":"text","text":"Qual é o seu nível de conhecimento sobre os Modelos Autorregressivos?\n![[Genai-Turma2/Trilha2/M8 Aprendizado autossupervisionado/assets/U0/Q5.png]]","x":-78,"y":-356,"width":648,"height":456},
+		{"id":"69af376742c99df3","type":"text","text":"Qual é o seu nível de compreensão sobre distribuição de probabilidade?\n![[Genai-Turma2/Trilha2/M8 Aprendizado autossupervisionado/assets/U0/Q3.png]]","x":570,"y":-810,"width":648,"height":456},
+		{"id":"98df8551b8eda7e3","type":"text","text":"Qual é o seu nível de conhecimento sobre Redes Adversárias Generativas?\n![[Genai-Turma2/Trilha2/M8 Aprendizado autossupervisionado/assets/U0/Q6.png]]","x":570,"y":-356,"width":648,"height":458}
+	],
+	"edges":[]
+}

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"ccbf7a1dbf12aa26","type":"text","text":"","x":-487,"y":-158,"width":250,"height":60},
+		{"id":"a4fbfac8d0f7902f","type":"text","text":"Qual é o seu nível de conhecimento sobre arquitetura Transformer?\n![[Genai-Turma2/Trilha3/M9 Arquiteturas neurais avançadas para IA generativa para texto/assets/U0/q1.png]]","x":-972,"y":-384,"width":648,"height":456},
+		{"id":"f09b7b64c3211eed","type":"text","text":"Qual é o seu nível de experiência sobre os Princípios de Engenharia de Prompts?\n![[Genai-Turma2/Trilha3/M9 Arquiteturas neurais avançadas para IA generativa para texto/assets/U0/q4.png]]","x":-972,"y":72,"width":648,"height":456},
+		{"id":"9a0172b96e635a78","type":"text","text":"# Questionário de Avaliação de Conhecimento Prévio\nTotal 21 Respostas\n","x":-368,"y":-528,"width":756,"height":88},
+		{"id":"a5a76aa87a94f83e","type":"text","text":"Qual é o seu nível de conhecimento sobre Amostragem Top-k?\n![[Genai-Turma2/Trilha3/M9 Arquiteturas neurais avançadas para IA generativa para texto/assets/U0/q2.png]]","x":-324,"y":-384,"width":648,"height":456},
+		{"id":"c78cf7bed1e0b25a","type":"text","text":"Qual é o seu nível de compreensão sobre como funciona o Retrieval Augmentation Generation (RAG)?![[Genai-Turma2/Trilha3/M9 Arquiteturas neurais avançadas para IA generativa para texto/assets/U0/q5.png]]","x":-324,"y":70,"width":648,"height":456},
+		{"id":"77037d7d756f44f3","type":"text","text":"Qual é o seu nível de conhecimento sobre amostragem Top-p?\n![[Genai-Turma2/Trilha3/M9 Arquiteturas neurais avançadas para IA generativa para texto/assets/U0/q3.png]]","x":324,"y":-384,"width":648,"height":456},
+		{"id":"7e1fd19e9b9ee4cf","type":"text","text":"Qual é o seu nível de experiência com APIs comerciais para acessar LLMs?![[Genai-Turma2/Trilha3/M9 Arquiteturas neurais avançadas para IA generativa para texto/assets/U0/q6.png]]","x":324,"y":70,"width":648,"height":458},
+		{"id":"0632d53053151ee2","type":"file","file":"Genai-Turma2/Trilha3/M9 Arquiteturas neurais avançadas para IA generativa para texto/assets/U0/Cronograma09.png","x":-1480,"y":-384,"width":320,"height":636}
+	],
+	"edges":[]
+}

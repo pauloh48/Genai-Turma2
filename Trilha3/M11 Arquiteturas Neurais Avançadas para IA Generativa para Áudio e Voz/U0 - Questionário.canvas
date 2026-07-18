@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"5b52d702fa7e4dbb","type":"text","text":"","x":-811,"y":-158,"width":250,"height":60},
+		{"id":"c64c6edd932f2b15","type":"text","text":"Qual é o seu nível de conhecimento sobre o arquiteturas generativas para áudio?![[Pasted image 20260601104124.png]]","x":-1296,"y":-384,"width":648,"height":456},
+		{"id":"effceb4ae9e9f460","type":"text","text":"Qual é o seu nível de experiência prática com este tema?![[Pasted image 20260601104145.png]]","x":-1296,"y":72,"width":648,"height":456},
+		{"id":"fce5ff285ad76ef6","type":"text","text":"# Questionário de Avaliação de Conhecimento Prévio\n","x":-692,"y":-528,"width":756,"height":72},
+		{"id":"4c42f400dc9cd0e9","type":"text","text":"Qual é o seu nível de experiência prática com Modelos Auto-Regressivos?![[Pasted image 20260601104129.png]]","x":-648,"y":-384,"width":648,"height":456},
+		{"id":"d085cc83a5c324c2","type":"text","text":"Qual é o seu nível de experiência prática com Autoencoders Variacionais (VAEs)?![[Pasted image 20260601104159.png]]","x":-648,"y":70,"width":648,"height":456},
+		{"id":"8ada077141d53189","type":"text","text":"Qual é o seu nível de experiência prática com Redes Adversariais Generativas (GANs)?![[Pasted image 20260601104138.png]]","x":0,"y":-384,"width":648,"height":456},
+		{"id":"29dcef79ab98873c","type":"text","text":"Qual é o seu nível de experiência prática com Modelos Baseados em Fluxo?![[Pasted image 20260601104205.png]]","x":0,"y":70,"width":648,"height":458},
+		{"id":"2a58423b56be6d65","type":"text","text":"Qual é o seu nível de experiência prática com Modelos Baseados em Transformadores (Transformers)?![[Pasted image 20260601104211.png]]","x":-1296,"y":530,"width":648,"height":456},
+		{"id":"674f7762e3dfb592","type":"text","text":"Qual é o seu nível de experiência prática com Modelos Baseados em Difusão?![[Pasted image 20260601104215.png]]","x":-648,"y":528,"width":648,"height":456},
+		{"id":"ea5503dc06a360de","type":"text","text":"Qual é o seu nível de experiência prática com Modelos Baseados em Codecs Neurais?![[Pasted image 20260601104225.png]]","x":0,"y":528,"width":648,"height":458},
+		{"id":"f5f930d45caeb0b7","type":"text","text":"Qual é o seu nível de compreensão dos principais conceitos relacionados às Arquiteturas Generativas Text-to-Speech (TTS![[Pasted image 20260601104235.png]]","x":-1296,"y":988,"width":648,"height":456},
+		{"id":"99c4ffca2ed8c4b2","type":"text","text":"Qual é o seu nível de compreensão dos principais conceitos relacionados  às Arquiteturas para Conversão da Voz?![[Pasted image 20260601104240.png]]","x":-648,"y":986,"width":648,"height":456},
+		{"id":"53298e48ab05553e","type":"text","text":"Qual é o seu nível de compreensão dos principais conceitos relacionados  às Arquiteturas de Áudio e Música?![[Pasted image 20260601104245.png]]","x":0,"y":986,"width":648,"height":458},
+		{"id":"7a3fd6f013d07a93","type":"text","text":"9 pessoas responderam","x":-449,"y":-446,"width":250,"height":50},
+		{"id":"af7891e66dc15fe8","type":"file","file":"Genai-Turma2/Trilha3/M11 Arquiteturas Neurais Avançadas para IA Generativa para Áudio e Voz/assets/U0/Cronograma11.png","x":-1720,"y":-384,"width":320,"height":636}
+	],
+	"edges":[]
+}
